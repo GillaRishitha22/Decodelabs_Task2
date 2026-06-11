@@ -35,14 +35,6 @@ To develop a basic interactive application that demonstrates Python fundamentals
 
 ---
 
-##  Project Structure
-expense-tracker/
-│
-├── expense_tracker.py
-└── README.md
-
----
-
 ##  How to Run
 
 ### Step 1:
